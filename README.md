@@ -56,17 +56,15 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 3.	Measure the output wave frequency and amplitude.
 ---
 ## TABULATION/OBSERVATION
+<img width="987" height="412" alt="image" src="https://github.com/user-attachments/assets/1851585b-c577-4054-8299-eeb7e654f203" />
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+
+<img width="1083" height="531" alt="image" src="https://github.com/user-attachments/assets/41131624-4354-4673-93db-fd330acf355c" />
 
 
 ---
@@ -125,15 +123,12 @@ Rf = 15K *2=30KΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+<img width="1184" height="506" alt="image" src="https://github.com/user-attachments/assets/bc2a8607-b1ea-4146-9585-0c1e1542befb" />
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1074" height="601" alt="image" src="https://github.com/user-attachments/assets/9e93ba08-0d19-4627-ab4e-39965d1fc4b9" />
+
 
 
 ---
